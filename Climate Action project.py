@@ -1,35 +1,3 @@
-"""
-This is a simple visual graphics program about creating awareness about global
-warming, specifically talking about planting trees to remove excess
-carbon dioxide from the atmosphere. This was created for the presentation
-of the speaking session of IOELL Virtual 2023, which was conducted by GEIST
-International Foundation. Even though it is not perfect as a program, but at
-least it is an attempt by a new Python learner who wants to explore even greater
-things about this language and eventually build up on that. It is actually
-designed for the young generation to get a lesson on how to prepare ourselves
-in defending a natural calamity like global warming, but just a visual way to
-actually get the idea on how simple an effort we can take to tackle this
-calamity, and what actually happens when we plant trees.
-
-FOR THE INSTRUCTOR OF THE CLASS:
-
-This program first of all gives a light blue background, then draws a sun and
-land. Then it draws 6 clouds of grey color, and writes CO2 on top of the clouds.
-
-After that, in the box below the canvas, there should come a question, asking
-"What should we do to remove carbon dioxide from the atmosphere?: "To this, the
-students will answer either "plant trees" OR "plant a tree". Any answer other
-than that will ask the same question repeatedly until the code receives its
-desired answer. After the answer, the code will draw 3 trees, and then remove
-the clouds and redraw the sun (Redraw the sun because part of sun gets wiped
-out due to removing clouds in the process).
-
-(N.B.: They can type either in capital letters or in small letters, but the
-input should be only these two: "plant trees" OR "plant a tree")
-
-Contact: smaamr2003@gmail.com
-
-"""
 
 import turtle
 
